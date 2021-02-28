@@ -8,4 +8,6 @@ NodeJS, MongoDB
 
 # Demo 
 
+![node-cli](https://user-images.githubusercontent.com/66074167/109412327-4783ab00-79cd-11eb-89e5-ab65fbbcab86.gif)
+
 
